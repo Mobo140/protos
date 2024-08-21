@@ -1,4 +1,4 @@
-module github.com/Mobo140/projects/protos
+module github.com/Mobo140/protos
 
 go 1.21.4
 
